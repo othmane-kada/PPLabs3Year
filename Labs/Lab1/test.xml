@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<group>
+    <student>
+        <firstname>Aydar</firstname>
+        <lastname>Rafikov</lastname>
+        <groupnumber>RPIS-91</groupnumber>
+        <subject>
+            <title>Math</title>
+            <mark>5</mark>
+        </subject>
+        <average>5.0</average>
+    </student>
+    <student>
+        <firstname>Max</firstname>
+        <lastname>Savelyev</lastname>
+        <groupnumber>RPIS-91</groupnumber>
+    </student>
+</group>
