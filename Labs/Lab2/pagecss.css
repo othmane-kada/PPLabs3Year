@@ -1,0 +1,31 @@
+LABEL {
+    font-family: cursive;
+    margin-right: 80px;
+}
+body {
+    background: blanchedalmond;
+}
+Button {
+    font-family: monospace;
+}
+button#print_info_about_workers {
+    margin-top: 9px;
+    margin-bottom: 4px;
+}
+time {
+    font-family: fantasy;
+}
+div {
+    text-align-last: center;
+}
+div#print_page_new_worker {
+    margin-bottom: 7px;
+}
+table {
+    width: max-content;
+    border: 1px solid black;
+    margin: auto;
+}
+td {
+    text-align: center;
+}
